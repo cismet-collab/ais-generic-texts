@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Help05Introduction,
   //   Help20Karteninhalt,
