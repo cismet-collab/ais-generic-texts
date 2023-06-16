@@ -1191,10 +1191,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@cismet-collab/rainhazardmaps-base-texts@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@cismet-collab/rainhazardmaps-base-texts/1.0.0/2e49b03aa4d956183f3bc58d9a651f8b29b4239a#2e49b03aa4d956183f3bc58d9a651f8b29b4239a"
-  integrity sha512-KuBrFW7ngRYdAvfqpVDs11jD9HmwDzsXtddQrKiu7CB5/FOlqudkWfIiqd/QlcuoHSDqMmjPCo8E7e879fJc8A==
+"@cismet-collab/rainhazardmaps-base-texts@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@cismet-collab/rainhazardmaps-base-texts/-/rainhazardmaps-base-texts-1.0.1.tgz#574b62f164ee1b8b6c69961cb79a241dd0fbfb0a"
+  integrity sha512-a6noVTlXdC50pUBpI5RA20Fc0rnjNnIb7GPV7thyIDyhjdJXie/Rrp0s7q2p58sN3eGZab1z+UZLm1nHUomEBg==
   dependencies:
     "@testing-library/jest-dom" "^5.16.5"
     "@testing-library/react" "^13.4.0"
